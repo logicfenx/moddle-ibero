@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/moddle-ibero",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a moddle-ibero",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/moddle-ibero.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/moddle-ibero/"
+    },
+    "homepage": "https://bitcu.co/moddle-ibero/"
+}
